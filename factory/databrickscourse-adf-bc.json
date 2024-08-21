@@ -1,0 +1,9 @@
+{
+	"name": "databrickscourse-adf-bc",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a12213c-bf3f-48b7-b8d9-b4dffbc82972",
+		"tenantId": "e60629a4-484b-4c4b-afe9-12ba782a676d"
+	}
+}
