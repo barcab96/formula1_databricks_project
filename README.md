@@ -1,4 +1,4 @@
-# Formula 1 Data Engineering with Databricks on Azure
+# Formula 1 Data Pipeline and Analytics with Azure Databricks
 
 This project demonstrates a data pipeline and analytics solution using Databricks on Azure, with data ingestion, transformation, and analysis implemented in Python and SQL. The workflow is automated through Azure Data Factory, which orchestrates the execution of Databricks notebooks. The dataset used in this project is sourced from the Ergast API, providing information about Formula 1 circuits, races, constructors, drivers, results, pit stops, lap times, and qualifying sessions.
 
